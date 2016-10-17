@@ -1,0 +1,113 @@
+/****CSS for parallex scrolling****/
+* {
+margin: 0;
+padding: 0;	
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+#title h1{
+	color: white;
+	text-align: right;
+	font-size: 120px;
+	position: fixed;
+	padding-left: 750px;
+	padding-top: 120px;
+	
+}
+
+#title p {
+	color: gray;
+	font-size: 25px;
+	padding-left: 1160px;
+	padding-top: 540px;
+}
+
+.bg-image1,
+.bg-image2,
+.bg-image3,
+.bg-image4,
+.bg-image5 {
+	
+	height: 1200px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-image1 {
+	background-image: url("images/record.JPG");
+}
+
+.bg-image2 {
+	background-image: url("images/street.JPG");
+}
+
+.bg-image3 {
+	background-image: url("images/motorcycle.JPG");
+}
+
+.bg-image4 {
+	background-image: url("images/typewriter.JPG");
+}
+
+.bg-image5 {
+	background-image: url("images/vhs.JPG");
+}
+
+.scroll-text1,
+.scroll-text2,
+.scroll-text3,
+.scroll-text4 {
+	color: white;
+	height: 850px;
+	text-align: left;
+	font-size: 24px;
+	padding-top: 50px;
+	
+	
+}
+
+.scroll-text1 {
+	background-color: #606772;
+
+}
+
+.scroll-text2 {
+	background-color: #99036e;
+}
+
+.scroll-text3 {
+	background-color: #5193a0;
+}
+
+.scroll-text4 {
+	background-color: #996633;
+}
+
+.scroll-text1 p,
+.scroll-text2 p,
+.scroll-text3 p,
+.scroll-text4 p
+
+ {
+	padding-right: 740px;
+	padding-left: 150px;
+}
+
+.sub-text {
+		color: white;
+		padding: 200px 650px 500px 50px;
+	}	
+
+footer {
+	background-color: #993333;
+	padding: 25px;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+
+}
