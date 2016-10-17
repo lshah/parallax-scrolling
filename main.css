@@ -39,23 +39,23 @@ body {
 }
 
 .bg-image1 {
-	background-image: url("images/record.JPG");
+	background-image: url('images/record.JPG');
 }
 
 .bg-image2 {
-	background-image: url("images/street.JPG");
+	background-image: url('images/street.JPG');
 }
 
 .bg-image3 {
-	background-image: url("images/motorcycle.JPG");
+	background-image: url('images/motorcycle.JPG');
 }
 
 .bg-image4 {
-	background-image: url("images/typewriter.JPG");
+	background-image: url('images/typewriter.JPG');
 }
 
 .bg-image5 {
-	background-image: url("images/vhs.JPG");
+	background-image: url('images/vhs.JPG');
 }
 
 .scroll-text1,
