@@ -25,18 +25,7 @@ body {
 	padding-top: 540px;
 }
 
-.bg-image1,
-.bg-image2,
-.bg-image3,
-.bg-image4,
-.bg-image5 {
-	
-	height: 1200px;
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
+
 
 .bg-image1 {
 	background-image: url('images/record.JPG');
@@ -56,6 +45,19 @@ body {
 
 .bg-image5 {
 	background-image: url('images/vhs.JPG');
+}
+
+.bg-image1,
+.bg-image2,
+.bg-image3,
+.bg-image4,
+.bg-image5 {
+	
+	height: 1200px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .scroll-text1,
